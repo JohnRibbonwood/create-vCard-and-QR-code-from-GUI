@@ -1,4 +1,10 @@
-# vCard QR Generator
+This software is in **alpha**. It is experimental, work in progress, under development, and not intended for production use.
+>
+> Just so you know, this project is in an early alpha stage and may be incomplete, unstable, or change without notice. Software is provided "as is", without warranty of any kind, and the author accepts no responsibility
+> for any damage, data loss, or other issues arising from its use. Limit your reliance on it, back up your data, and use this code at your own risk.
+
+
+# vCard QR-code Generator
 
 A small Windows desktop app (Python + Tkinter). You type in contact details, and it builds a vCard, shows it as a QR code, and saves it as a one-page PDF. Scanning the QR code with a phone camera offers to add the contact.
 
